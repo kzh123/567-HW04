@@ -1,10 +1,7 @@
 from HW04A_ZKANG import repo
 
 import unittest
-from unittest import mock
 from unittest.mock import patch
-import urllib
-from requests.cookies import MockResponse
 
 
 class TestHW04(unittest.TestCase):
